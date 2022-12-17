@@ -25,7 +25,7 @@ print(X_Test)
 y_pred = LinearRegressionModel.predict(X_Test)   
 print('pred',y_pred)
 
-
+#Test with your own data
 Test=[11]
 Test= np.array(Test).reshape(-1,1)
 y_pred = LinearRegressionModel.predict(Test)
