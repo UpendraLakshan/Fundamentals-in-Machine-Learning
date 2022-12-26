@@ -1,4 +1,4 @@
-# Fundamentals-in-Machine-Learning
+# Fundamentals-in-Machine-Learning (Supervised Learning)
 
 Hi Everyone,
 
